@@ -8,6 +8,7 @@
 @attribute music{flop,hit,super_hit}
 @attribute language{hindi,english}
 @attribute result{flop,hit,super_hit}
+@attribute result{flop,hit,super_hit}
 
 @data
 
