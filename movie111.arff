@@ -1,0 +1,17 @@
+@relation movie_prediction
+@attribute director{Yash_Chopra,Aditya_Chopra,Subhash_Ghai,Karan_Johar,Mahesh_Bhatt,Vishesh_Bhatt}
+@attribute actor{salmankhan,shahrukhkhan,ajay_devgon,aamirkhan,akshaykumar,Johnabraham,varundhawan,hrithik_Roshan,nawazuddinsiddiqui}
+@attribute actress{deepika,aliabhatt,kareenakapoor,katrinakaif,kritisenon,dishapatani,jacqueline,Ileana,Tamannaah,priyankachopra}
+@attribute lastmovie{flop,hit,super_hit}
+@attribute writer{Zoya_Akhtar,Dibakar_Banerjee,Vishal,Kiran_Rao,Anurag_Kashyap,Nandita_Das,Reema_Kagti}
+@attribute producer{Yash_Chopra,Aditya_Chopra,Subhash_Ghai,Karan_Johar,Mahesh_Bhatt,Vishesh_Bhatt,Maneesh_Sharma}
+@attribute music{flop,hit,super_hit}
+@attribute language{hindi,english}
+@attribute result{flop,hit,super_hit}
+
+@data
+
+Yash_Chopra,salmankhan,deepika,flop,Zoya_Akhtar,Yash_Chopra,flop,hindi,flop
+Yash_Chopra,shahrukhkhan,aliabhatt,flop,Dibakar_Banerjee,Subhash_Ghai,flop,hindi,super_hit
+Vishesh_Bhatt,shahrukhkhan,kritisenon,hit,Nandita_Das,Mahesh_Bhatt,flop,hindi,hit
+Yash_Chopra,nawazuddinsiddiqui,deepika,flop,Zoya_Akhtar,Yash_Chopra,flop,hindi,flop
